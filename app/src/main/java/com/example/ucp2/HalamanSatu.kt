@@ -35,7 +35,7 @@ fun HalamanSatu(
             colors = CardDefaults.cardColors(
                 containerColor = MaterialTheme.colorScheme.surface
             ),
-            border = BorderStroke(1.dp, Color.Black),
+            border = BorderStroke(1.dp, Color.White),
             modifier = Modifier
                 .fillMaxWidth(0.95f)
                 .fillMaxHeight(0.95f)
